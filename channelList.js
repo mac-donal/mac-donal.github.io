@@ -1279,5 +1279,11 @@ const channelList = [
     keyId: 'e54e9ea87a634658fbba0e380aa701a7',
     key: '4e486d25d7d0e7d131743b285963c643',
     number: 6
+  },
+  {
+    name: 'Dsports (Test)',
+    img: 'dsports.webp',
+    getURL: 'https://streamdx.lat/memfs/075c696e-331d-42d4-9bb7-1e56f973d40b.m3u8',
+    type: 'external'
   }
 ]
